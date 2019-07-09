@@ -224,9 +224,9 @@ Now that you have some experince building classes. Let's go back and build out t
 ```ruby
 class Car
   def initialize(model, color)
-    @model = model;
-    @color = color;
-    @fuel = 100;
+    @model = model
+    @color = color
+    @fuel = 100
   end 
 
   def drive
